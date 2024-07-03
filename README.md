@@ -22,7 +22,7 @@ In this home screen, there are some tricky parts. Let me highlight a few things:
     - Limit lines bases on post type. For example post with title has a maximum number of body lines of 3. Otherwise other posts are not limited to the number of lines.
     - Support #hashtag
     - List featured coins with horizontal scrolling
-    - Reaction popup with animation
+    - Reaction popup: show below or above anchor depending on the remaining space at the top. Also has animation when hover 
 
 ![image](https://github.com/89hnim/jet-binance/assets/36001688/5c2a42e7-a5d8-4ebb-aa33-47fc5bd95708)
 ![image](https://github.com/89hnim/jet-binance/assets/36001688/34168de4-04ba-483c-ad8e-ddbb8dc759d6)
